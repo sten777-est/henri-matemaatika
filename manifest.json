@@ -2,7 +2,7 @@
   "name": "Henri Matemaatika",
   "short_name": "Matemaatika",
   "description": "Lõbus matemaatikamäng lastele",
-  "start_url": "./henri-matemaatika-mang.html",
+  "start_url": "./",
   "display": "standalone",
   "orientation": "any",
   "background_color": "#FFE45E",

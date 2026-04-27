@@ -1,7 +1,7 @@
-const CACHE = 'henri-math-v1';
+const CACHE = 'henri-math-v2';
 const ASSETS = [
   './',
-  './henri-matemaatika-mang.html',
+  './index.html',
   './manifest.json',
   './apple-touch-icon.png',
   './icon-192.png',
